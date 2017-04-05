@@ -34,7 +34,13 @@
 # puts b.eql?a
 
 
-a = 4
-puts a = 7 if a == 4
+# a = 4
+# puts a = 7 if a == 4
 # puts a
 
+
+require "base64"
+
+enc   = Base64.encode64('figuedmundo@gmail.com:mysql123')
+
+puts enc

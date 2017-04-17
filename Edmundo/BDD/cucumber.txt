@@ -13,19 +13,19 @@ Research :
 * Which type of teams could implement BDD?
   - Any type of team could implement it
 
-* Structure of a feature – Give an example
+* Structure of a feature - Give an example
   - Get all the conference rooms of Jala
 
-* Structure of a user story – Give an example
+* Structure of a user story - Give an example
 TITLE: Know the names of the conference rooms
-AS A jalasoft ingenier
-I WANT 
-SO THAT 
+AS A jalasoft engineer
+I WANT a list of the conference rooms
+SO THAT the conference rooms should be known by their names
 
-* Structure of a scenario – Give an example
-GIVEN
-WHEN
-THEN
+* Structure of a scenario - Give an example
+GIVEN the engineer is loged into the system
+WHEN is typed the conference "1B2"
+THEN the system should show "Rohan"
 
-Differences between BDD and BDT
+* Differences between BDD and BDT
 BDD should involve all develpment team, instead of BDT that write test cases

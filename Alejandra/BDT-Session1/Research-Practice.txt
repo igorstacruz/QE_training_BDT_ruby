@@ -1,0 +1,38 @@
+Research :
+1. When and why BDD was defined
+Dan North was who first formulated the BDD approach in 2004 in order to prove his hypotheses releases JBehave (BDD framework), BDD was defined because there were some training issues in the TDD approach that had to be solved
+
+2. The most important aspects of BDD
+* BDD offers more precise guidance on organizing the conversation between developers, testers and domain experts
+* Notations Ssuch as the given-when-then are closer to everyday language.
+* Automatic generation of technical and end user documentation from BDD "specifications"
+
+3. Why is useful and when could be applied
+Collaboration 
+Ubiquitous language
+Easy Feedback 
+Avoid rework in requirements definition
+Self documentation 
+Focus on Behavior
+
+4.Which type of teams could implement BDD
+Business , development and testing teams
+
+5.Structure of a feature
+Example:
+Feature: Buying Fligh passages
+
+6.Structure of a user story
+Example:
+As a passenger
+I want to buy flight tickets online
+So that I buy flight ticket quickly and get a good user experience in the process
+
+7.Structure of a scenario 
+Example:
+Given a ticket with a cost of $10
+when I buy two tickets
+then the total cost of tickets should be $20
+
+*Differences between BDD and BDT
+The main difference related to BDD and BDT is the development team is not involved in the creation of tests in the Behaviour Driven testing.

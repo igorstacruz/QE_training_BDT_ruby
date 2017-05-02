@@ -1,0 +1,27 @@
+{
+        "Type" : "TRAVEL",
+        "Name" : "GROUP_NAME",
+        "id": 1234,
+        "options" : [{
+                "origin" : "ORIGIN_1",
+                "destination" : "DESTINATION_1",
+                "departureDate" : "DEPART_DATE_1"
+        },{
+                "origin" : "ORIGIN_2",
+                "destination" : "DESTINATION_2",
+                "departureDate" : "DEPART_DATE_2"
+        }, {
+                "origin" : "ORIGIN_3",
+                "destination" : "DESTINATION_3",
+                "departureDate" : "DEPART_DATE_3"
+        }
+        ],
+        "information" : [{
+                "type" : "CH",
+                "count" : 5
+        },{
+                "type" : "AD",
+               "count" : 5
+        }
+        ]
+}

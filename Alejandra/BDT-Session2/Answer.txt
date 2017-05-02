@@ -1,0 +1,2 @@
+* Which one is the difference between both executions?
+Answer.- The command with Dry Run executes the feature file without run the file that's why the console output doesn't show a time (0m0.000s) comparing with the cucumber execution with out Dry Run that executes the feature file and throws the execution time

@@ -1,0 +1,71 @@
+
+
+Research :
+
+Q: When and why BDD was defined
+
+A: it was created by Dan North in the 'Agile specifications, BDD and Testing eXchange' in 2009
+as an aproach or solution to make development, testing and acceptance criteria easy to understood with the use of natural lenguaje in it.
+defined as complement for TDD since there was some faliures with it.
+fill gaps on Devs, Testers and PO comunications problems.
+
+
+Q: The most important aspects of BDD
+
+A: The most important aspects of BDD
+User stories
+	Defined in clear language
+Evaluate behavior
+	Expected behavior need to be reached
+Acceptance criteria
+	Behavior fulfill the requirement
+
+
+Q: Why is useful and when could be applied.
+
+A: Focus on Behavior more than in thechnical details
+Self documentation (Natural lenguage)
+help to start with more clear Specification -> Ubiquitous language
+Easy and early Feedback in the proccess
+it could be applied on early stages of the project
+
+
+Q: Which type of teams could implement BDD
+A: any development teams 
+
+Structure of a feature – Give an example
+Structure
+* Name
+* Size [Optional]
+* Priority 
+
+Example:
+7
+Calculate statistical indicators
+
+Structure of a user story – Give an example
+Structure
+*Title (one line describing the story)
+* Narrative:
+ As a [role]
+ I want [feature]
+ So that [benefit]        
+
+Example:
+As a Analyst I want to caclculate the modal of the list of values
+
+
+Structure of a scenario – Give an example
+Structure :
+Given some initial context (the givens)
+When an event occurs
+then ensure some outcomes
+
+Example:
+Given I have a list of values
+When the modal is calculated
+then the maximun number should be returned
+
+
+
+

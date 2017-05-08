@@ -1,0 +1,67 @@
+*********Normal execution  ***********
+
+cucumber search_customer.feature
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansi
+on/) to get coloured output on Windows
+#This are copy right lines
+#autor:
+#
+Feature: search for customers on list
+
+  Scenario: search for customers with filter # search_customer.feature:7
+    Given I have login into application      # search_customer.feature:9
+
+  Scenario: search for customers by default # search_customer.feature:11
+
+2 scenarios (1 undefined, 1 passed)
+1 step (1 undefined)
+0m0.016s
+
+You can implement step definitions for undefined steps with these snippets:
+
+Given(/^I have login into application$/) do
+  pending # express the regexp above with the code you wish you had
+end
+
+If you want snippets in a different programming language,
+just make sure a file with the appropriate file extension
+exists where cucumber looks for step definitions.
+
+
+********* --dry-run execution  ***********
+
+
+cucumber search_customer.feature --dry-run
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansic
+on/) to get coloured output on Windows
+#This are copy right lines
+#autor:
+#
+Feature: search for customers on list
+
+  Scenario: search for customers with filter # search_customer.feature:7
+    Given I have login into application      # search_customer.feature:9
+
+  Scenario: search for customers by default # search_customer.feature:11
+
+2 scenarios (1 undefined, 1 passed)
+1 step (1 undefined)
+0m0.016s
+
+You can implement step definitions for undefined steps with these snippets:
+
+Given(/^I have login into application$/) do
+  pending # express the regexp above with the code you wish you had
+end
+
+If you want snippets in a different programming language,
+just make sure a file with the appropriate file extension
+exists where cucumber looks for step definitions.
+
+
+c:\course\cucumbersession2\features>
+
+
+
+Which one is the difference between both executions?
+there is no difference since there are no steps deffinitions

@@ -1,0 +1,138 @@
+
+03/29/2017: method - insertUsers
+03/29/2017: quantity: 4
+03/29/2017: method - askUserInfo
+03/29/2017: User Added: miguel01, Id: 01
+03/29/2017: method - askUserInfo
+03/29/2017: User Added: miguel02, Id: 02
+03/29/2017: method - askUserInfo
+03/29/2017: User Added: miguel03, Id: 03
+03/29/2017: method - askUserInfo
+03/29/2017: User Added: miguel04, Id: 04
+03/29/2017: method - askUserCalculation
+03/29/2017: Ask User: 01
+03/29/2017: Answer: no
+03/29/2017: Ask User: 02
+03/29/2017: Answer: yes
+03/29/2017: method - chooseConvertion
+03/29/2017: Option: c
+03/29/2017: method - performConvertion
+03/29/2017: option: c
+03/29/2017: Insert the value in m.: 1000
+03/29/2017: 1000 m. represents 1.0 km.
+03/29/2017: Ask User: 03
+03/29/2017: Answer: yes
+03/29/2017: method - chooseConvertion
+03/29/2017: Option: a
+03/29/2017: method - performConvertion
+03/29/2017: option: a
+03/29/2017: Insert the value in mm.: 10
+03/29/2017: 10 mm. represents 1.0 cm.
+03/29/2017: Ask User: 04
+03/29/2017: Answer: yes
+03/29/2017: method - chooseConvertion
+03/29/2017: Option: c
+03/29/2017: method - performConvertion
+03/29/2017: option: c
+03/29/2017: Insert the value in m.: 1000
+03/29/2017: 1000 m. represents 1.0 km.
+03/29/2017Mar031490829307: method - insertUsers
+03/29/2017Mar031490829308: quantity: 3
+03/29/2017Mar031490829308: method - askUserInfo
+03/29/2017Mar031490829312: User Added: a1, Id: 1
+03/29/2017Mar031490829312: method - askUserInfo
+03/29/2017Mar031490829315: User Added: a2, Id: 2
+03/29/2017Mar031490829315: method - askUserInfo
+03/29/2017Mar031490829317: User Added: a3, Id: 3
+03/29/2017Mar031490829317: method - askUserCalculation
+03/29/2017Mar031490829322: Ask User: 1
+03/29/2017Mar031490829322: Answer: no
+03/29/2017Mar031490829323: Ask User: 2
+03/29/2017Mar031490829323: Answer: no
+03/29/2017Mar031490829324: Ask User: 3
+03/29/2017Mar031490829324: Answer: no
+
+03/29/2017231733: method - insertUsers
+03/29/2017231734: quantity: 3
+03/29/2017231734: method - askUserInfo
+03/29/2017231739: User Added: a1, Id: 1
+03/29/2017231739: method - askUserInfo
+03/29/2017231741: User Added: a2, Id: 2
+03/29/2017231741: method - askUserInfo
+03/29/2017231743: User Added: a3, Id: 3
+03/29/2017231743: method - askUserCalculation
+03/29/2017231747: Ask User: 1
+03/29/2017231747: Answer: no
+03/29/2017231748: Ask User: 2
+03/29/2017231748: Answer: yes
+03/29/2017231748: method - chooseConvertion
+03/29/2017231751: Option: a
+03/29/2017231751: method - performConvertion
+03/29/2017231751: option: a
+03/29/2017231752: Insert the value in mm.: 10
+03/29/2017231752: 10 mm. represents 1.0 cm.
+03/29/2017231754: Ask User: 3
+03/29/2017231754: Answer: no
+03/29/2017 23:18:24: method - insertUsers
+03/29/2017 23:18:25: quantity: 3
+03/29/2017 23:18:25: method - askUserInfo
+03/29/2017 23:18:28: User Added: a1, Id: 1
+03/29/2017 23:18:28: method - askUserInfo
+03/29/2017 23:18:29: User Added: a2, Id: 2
+03/29/2017 23:18:29: method - askUserInfo
+03/29/2017 23:18:31: User Added: a3, Id: 3
+03/29/2017 23:18:31: method - askUserCalculation
+03/29/2017 23:18:33: Ask User: 1
+03/29/2017 23:18:33: Answer: no
+03/29/2017 23:18:34: Ask User: 2
+03/29/2017 23:18:34: Answer: no
+03/29/2017 23:18:35: Ask User: 3
+03/29/2017 23:18:35: Answer: no
+
+03/29/2017 23:19:48: method - insertUsers
+03/29/2017 23:19:49: quantity: 3
+03/29/2017 23:19:49: method - askUserInfo
+03/29/2017 23:19:54: User Added: andres01, Id: 01
+03/29/2017 23:19:54: method - askUserInfo
+03/29/2017 23:19:58: User Added: andres02, Id: 02
+03/29/2017 23:19:58: method - askUserInfo
+03/29/2017 23:20:01: User Added: andres03, Id: 03
+03/29/2017 23:20:01: method - askUserCalculation
+03/29/2017 23:20:04: Ask User: 01
+03/29/2017 23:20:04: Answer: no
+03/29/2017 23:20:07: Ask User: 02
+03/29/2017 23:20:07: Answer: yes
+03/29/2017 23:20:07: method - chooseConvertion
+03/29/2017 23:20:08: Option: 1
+03/29/2017 23:20:08: method - performConvertion
+03/29/2017 23:20:08: option: 1
+03/29/2017 23:20:08: 1 doesn't exist
+03/29/2017 23:20:09: Ask User: 03
+03/29/2017 23:20:09: Answer: 10
+03/29/2017 23:20:09: 01,andres01,No
+03/29/2017 23:20:09: 02,andres02,Yes
+03/29/2017 23:20:09: 03,andres03,No
+03/29/2017 23:20:15: method - insertUsers
+03/29/2017 23:20:16: quantity: 3
+03/29/2017 23:20:16: method - askUserInfo
+03/29/2017 23:20:21: User Added: pepe01, Id: 01
+03/29/2017 23:20:21: method - askUserInfo
+03/29/2017 23:20:25: User Added: pepe02, Id: 02
+03/29/2017 23:20:25: method - askUserInfo
+03/29/2017 23:20:30: User Added: pepe03, Id: 03
+03/29/2017 23:20:30: method - askUserCalculation
+03/29/2017 23:20:32: Ask User: 01
+03/29/2017 23:20:32: Answer: no
+03/29/2017 23:20:34: Ask User: 02
+03/29/2017 23:20:34: Answer: yes
+03/29/2017 23:20:34: method - chooseConvertion
+03/29/2017 23:20:37: Option: a
+03/29/2017 23:20:37: method - performConvertion
+03/29/2017 23:20:37: option: a
+03/29/2017 23:20:38: Insert the value in mm.: 10
+03/29/2017 23:20:38: 10 mm. represents 1.0 cm.
+03/29/2017 23:20:40: Ask User: 03
+03/29/2017 23:20:40: Answer: no
+03/29/2017 23:20:40: 01,pepe01,No
+03/29/2017 23:20:40: 02,pepe02,Yes
+03/29/2017 23:20:40: 03,pepe03,No

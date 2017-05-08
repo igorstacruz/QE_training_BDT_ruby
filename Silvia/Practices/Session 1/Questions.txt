@@ -1,0 +1,16 @@
+1. What is ruby?
+Ruby is programming language, supports object oriented, it is easy to learn because is simple and flexible
+
+2. What pros/cons you considered from the point explained in the class
+PROS:
+* Easy to learn 
+* Simple 
+* Flexible
+* Allows to create scripts quickly and with reduce number of lines
+CONS:
+* Too much flexibility can be confusing for the developer at some point
+
+3. According what we talked today, what are the 3 testing tiers?
+* UI
+* API
+* Backend

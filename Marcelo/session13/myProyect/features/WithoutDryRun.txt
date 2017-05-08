@@ -1,0 +1,36 @@
+# Author::    Marcelo Vargas  (mailto:marcelo.vargas@jalasoft.com)
+# Copyright:: Copyright (c) 2017 Cucumber Class
+# License::   Distributes under the same terms as Ruby
+Feature: Serve coffee
+  Coffee should not be served until paid for
+  Coffee should not be served until the button has been pressed
+  If there is no coffee left then money should be refunded
+
+  Scenario: Buy last coffee                       # serve_coffee.feature:10
+    Given there are 1 coffees left in the machine # serve_coffee.feature:11
+    And I have deposited 1$                       # serve_coffee.feature:12
+    When I press the coffee button                # serve_coffee.feature:13
+    Then I should be served a coffee              # serve_coffee.feature:14
+
+1 scenario (1 undefined)
+4 steps (4 undefined)
+0m0.008s
+
+You can implement step definitions for undefined steps with these snippets:
+
+Given(/^there are (\d+) coffees left in the machine$/) do |arg1|
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Given(/^I have deposited (\d+)\$$/) do |arg1|
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+When(/^I press the coffee button$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Then(/^I should be served a coffee$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+

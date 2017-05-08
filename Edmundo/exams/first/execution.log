@@ -1,0 +1,17 @@
+Init Log
+Tried to register 4 users.
+added user {:username=>"ed", :password=>"123"}
+added user {:username=>"maria", :password=>"123"}
+added user {:username=>"miky", :password=>"123"}
+added user {:username=>"karime", :password=>"123"}
+4 users saves successfully.
+User 'ed' choose 'jajajajaja' conversation type.'
+User 'maria' choose 'b' conversation type.'
+User 'miky' choose 'c' conversation type.'
+User 'karime' choose 'x' conversation type.'
+User 'maria' wants to calculate '258.0' from centimeters to meters.
+258.0 centimeters represent 2.58 meters
+User 'miky' wants to calculate '400.0' from meters to kilometers.
+400.0 meters represent 0.4 km
+Users that don't want conversion:'
+[{:username=>"ed", :password=>"123"}, {:username=>"karime", :password=>"123"}]

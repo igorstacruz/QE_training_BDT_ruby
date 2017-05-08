@@ -1,0 +1,18 @@
+Initialize Registration
+Get the amount of users
+Amount of users introduced: 3
+Set user information
+User name introduced: sil
+User id introduced: 1
+Set user information
+User name introduced: mar
+User id introduced: 2
+Set user information
+User name introduced: yes
+User id introduced: 3
+Ask for calculation for all the users
+User sil wants to perform the calculation
+Select the conversion type
+Name mar added to the list of users that do not perform any calculation
+Name yes added to the list of users that do not perform any calculation
+Users that do not perform any calculation are ["mar", "yes"]

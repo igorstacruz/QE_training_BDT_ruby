@@ -1,0 +1,4 @@
+C:\Users\Alejandra Arteaga\QE_training_BDT_ruby\Alejandra\BDT-Session2\Cucumber>cucumber features\search_item.feature --Dry-Run
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansicon/) to get coloured output on Windows
+0 scenarios
+0 steps
